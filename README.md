@@ -17,3 +17,6 @@ Spark 2.2.0. Hail will work with other bug fix versions of Spark 2.2.x, but it w
 Anaconda for Python 3. Just type module load python/3.5_intel.
 
 Current distribution for Spark 2.2.0
+
+
+link:https://youtu.be/lK127UZr-mo
